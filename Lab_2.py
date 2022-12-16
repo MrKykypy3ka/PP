@@ -1,10 +1,6 @@
 import math
 import threading, time
-from PyQt6 import uic, QtWidgets
-from random import randint
-import math as ma
 import sympy as sy
-import numpy as np
 from time import *
 
 b = math.pi
