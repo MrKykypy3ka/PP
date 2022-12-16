@@ -1,6 +1,4 @@
 import threading, time
-from PyQt6 import uic, QtWidgets
-from Form import Ui_Dialog
 from random import randint
 
 norm = 500
